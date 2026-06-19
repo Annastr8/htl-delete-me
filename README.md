@@ -2,7 +2,7 @@
 Test repository zum Lernen von Git
 ## Erste Schritte
 1. Remote Rapo anlegen-> Erledigt
-2. Repo klonen
+2. Repo klonen->Erledigt
 3. Dateien auf lokalen Repo ändern
 4. 
 
